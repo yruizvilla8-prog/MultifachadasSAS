@@ -61,6 +61,8 @@ El objetivo principal del sitio es ofrecer a los clientes una plataforma visual,
 
 ## 📷 Vista previa del proyecto
 
+<img width="1342" height="632" alt="image" src="https://github.com/user-attachments/assets/942802ff-3a74-484c-beef-3fac5c19d23f" />
+
 
 
 ---
@@ -69,11 +71,12 @@ El objetivo principal del sitio es ofrecer a los clientes una plataforma visual,
 
 - Yessica Ruiz
 - Laura Navarrete
-- Francia Jaramillo – 
+- Francia Jaramillo 
 
 ---
 
 ## Licencia
 
 Este proyecto es de uso académico. Todos los derechos reservados a la empresa Multiservicios Fachadas S.A.S 
+
 
