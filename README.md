@@ -69,10 +69,11 @@ El objetivo principal del sitio es ofrecer a los clientes una plataforma visual,
 
 - Yessica Ruiz
 - Laura Navarrete
-- Francia – 
+- Francia Jaramillo – 
 
 ---
 
 ## Licencia
 
 Este proyecto es de uso académico. Todos los derechos reservados a la empresa Multiservicios Fachadas S.A.S 
+
